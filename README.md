@@ -1,11 +1,9 @@
-# Learning 3D and game development
-
+# Learning 3D Game development
 
 # Concepts
 
 ### Meshes
 ### Shaders
 ### Postion, UV, Normals
-
 
 # Math
